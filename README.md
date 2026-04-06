@@ -1,2 +1,1 @@
-# PROJECTS
-EXPERIENCE WITH PROJECTS
+analisis estadistico descriptivo.
